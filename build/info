@@ -1,0 +1,3 @@
+Human Activity Recognition Using LSTM (Long Short-Term Memory)
+
+This project focuses on classifying human activities such as walking, sitting, standing, and more using smartphone sensor data. It uses an LSTM (Long Short-Term Memory) neural network model built with TensorFlow to process time-series data from accelerometer and gyroscope sensors. The model learns to predict six different activities based on sensor signals without requiring manual feature engineering. The dataset used is the UCI HAR Dataset, which is widely recognized for activity recognition research. This project demonstrates the application of deep learning techniques for real-world activity tracking systems such as fitness monitoring and healthcare analysis.
